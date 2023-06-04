@@ -1,0 +1,29 @@
+{
+  "name": "chatddogi",
+  "version": "1.0.0",
+  "description": "노드로 채팅 앱을 만들어본다",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gaeddogi/chatddogi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gaeddogi/chatddogi/issues"
+  },
+  "homepage": "https://github.com/gaeddogi/chatddogi#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "session-memory-store": "^1.0.0",
+    "winston": "^3.9.0",
+    "winston-daily-rotate-file": "^4.7.1"
+  }
+}
