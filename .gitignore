@@ -1,0 +1,12 @@
+docs/
+node_modules/
+
+.vscode/
+
+*.swp
+*.pid
+
+*.iml
+.idea
+.tscache
+.DS_Store
